@@ -4,7 +4,7 @@ Bem-vindo ao repositório do meu portfólio pessoal! Este projeto é um site est
 
 ## 📋 Sobre o Projeto
 
-Este é um site de portfólio pessoal ("Visit Card" Digital) que serve como um hub central para minha presença online. Ele foi construído com foco em simplicidade, performance e uma boa experiência de usuário.
+Este é um site de portfólio pessoal que serve como um hub central para minha presença online. Ele foi construído com foco em simplicidade, performance e uma boa experiência de usuário.
 
 > ℹ️ **Nota:** Este projeto surgiu durante a **Imersão Dev com Google Gemini 10ª Edição** da [Alura](https://www.alura.com.br/).
 
