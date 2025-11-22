@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DevFolio | Vagne Zau Lelo - Desenvolvedor Fullstack</title>
+    <link rel="stylesheet" href="./assets/styles/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <main class="container">
+      <button
+        id="theme-toggle"
+        class="theme-toggle-btn"
+        aria-label="Alternar Modo Claro/Escuro"
+      >
+        <i class="fas fa-sun"></i>
+        <i class="fas fa-moon"></i>
+      </button>
+
+      <header class="profile-section">
+        <img
+          src="./assets/img/SUN RS_20.JPG"
+          alt="Foto de Perfil"
+          class="profile-photo"
+        />
+        <h1>Vagne Zau Lelo</h1>
+        <p class="title">Desenvolvedor Fullstack | Node.js & React/Next.js</p>
+        <p class="bio">
+          Bem-vindo! Sou especialista em construir aplicações web completas, do
+          banco de dados à interface do usuário. Minha paixão é criar soluções
+          escaláveis usando o ecossistema JavaScript/TypeScript.
+        </p>
+      </header>
+
+      <section class="skills-section" id="skills">
+        <h2>Habilidades Técnicas</h2>
+        <div class="skills-list">
+          <span class="skill-tag front"
+            ><i class="fab fa-react"></i> React/Next.js</span
+          >
+          <span class="skill-tag front"
+            ><i class="fab fa-js"></i> JavaScript/TS</span
+          >
+          <span class="skill-tag front"
+            ><i class="fab fa-html5"></i> HTML/CSS (SCSS)</span
+          >
+          <span class="skill-tag language"
+            ><i class="fab fa-node-js"></i> Node.js/Express</span
+          >
+          <span class="skill-tag db"
+            ><i class="fas fa-database"></i> MongoDB</span
+          >
+          <span class="skill-tag db"
+            ><i class="fas fa-database"></i> MySQL</span
+          >
+          <span class="skill-tag tool"
+            ><i class="fab fa-github"></i> Git/GitHub</span
+          >
+        </div>
+      </section>
+
+      <section class="links-section">
+        <a
+          href="https://github.com/VagneLelo"
+          target="_blank"
+          class="link-button"
+        >
+          <i class="fab fa-github"></i> Repositórios GitHub
+        </a>
+        <a
+          href="https://linkedin.com/in/vagne-zau-lelo-445a88264"
+          target="_blank"
+          class="link-button"
+        >
+          <i class="fab fa-linkedin"></i> Perfil LinkedIn
+        </a>
+        <a
+          href="https://sunflowerfotos.jimdofree.com"
+          target="_blank"
+          class="link-button"
+        >
+          <i class="fas fa-globe"></i> Website Pessoal
+        </a>
+      </section>
+
+      <section class="contact-details">
+        <h2>Entre em Contato</h2>
+        <div class="contact-grid">
+          <div class="contact-item">
+            <i class="fas fa-envelope contact-icon"></i>
+            <p>E-mail Principal</p>
+            <a href="mailto:vagnelelo@gmail.com">vagnelelo@gmail.com</a>
+          </div>
+          <div class="contact-item">
+            <i class="fab fa-whatsapp contact-icon"></i>
+            <p>WhatsApp / Telefone</p>
+            <a href="https://wa.me/244928145620" target="_blank"
+              >(+244) 928 145 620</a
+            >
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-map-marker-alt contact-icon"></i>
+            <p>Localização</p>
+            <span>Lubango, Angola</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="projects-section">
+        <h2>Meus Projetos Selecionados</h2>
+        <div id="projects-container" class="projects-grid"></div>
+        <div id="pagination-controls" class="pagination-controls"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>Desenvolvido por Vagne Zau Lelo © <span id="current-year"></span></p>
+    </footer>
+
+    <script src="./assets/js/script.js"></script>
+  </body>
+</html>
