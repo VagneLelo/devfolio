@@ -1,98 +1,42 @@
 [
   {
     "id": 1,
-    "nome": "Fullstack-Auth-API",
-    "descricao": "Exemplo de API RESTful com Node.js, Express e MongoDB para autenticação JWT, com operações de CRUD básicas de usuários.",
-    "linguagem": "Node.js",
-    "estrela": 8,
-    "link": "https://github.com/VagneLelo/user_crud"
+    "nome": "Angola-Api",
+    "descricao": "Uma API abrangente que fornece dados detalhados sobre a geografia de Angola, incluindo informações sobre províncias, municípios e comunas. Ideal para desenvolvedores que necessitam de dados geográficos precisos para aplicações focadas em Angola.",
+    "linguagem": "Typescript",
+    "estrela": 251,
+    "link": "https://github.com/VagneLelo/Angola-Api"
   },
   {
     "id": 2,
-    "nome": "Html-Portfolio-Static",
-    "descricao": "Template de portfólio moderno construído usando HTML, CSS e JAVASCRIPT.",
-    "linguagem": "React",
-    "estrela": 10,
-    "link": "https://github.com/VagneLelo"
+    "nome": "user_crud",
+    "descricao": "API RESTful robusta desenvolvida com Node.js, Express e MongoDB. Implementa autenticação segura com JWT, criptografia de senhas e operações completas de CRUD (Create, Read, Update, Delete) para gerenciamento de usuários.",
+    "linguagem": "Node.js",
+    "estrela": 1,
+    "link": "https://github.com/VagneLelo/user_crud"
   },
   {
     "id": 3,
-    "nome": "Dashboard-CSS-Grid",
-    "descricao": "Layout de dashboard moderno e responsivo focado em CSS Grid.",
-    "linguagem": "CSS",
-    "estrela": 5,
-    "link": "https://github.com/VagneLelo"
-  },
-  {
-    "id": 4,
-    "nome": "Upload-Multyfiles-NodeJS-With-Multer-And-MongoDB",
-    "descricao": "Upload Multyfiles NodeJS With Multer And MongoDB",
+    "nome": "upload_multy_files_api",
+    "descricao": "Solução backend eficiente para upload e gerenciamento de múltiplos arquivos simultaneamente. Utiliza Node.js e a biblioteca Multer para processamento de arquivos, com armazenamento de metadados no MongoDB.",
     "linguagem": "Node.js",
     "estrela": 2,
     "link": "https://github.com/VagneLelo/upload_multy_files_api"
   },
   {
+    "id": 4,
+    "nome": "devfolio",
+    "descricao": "Portfólio pessoal interativo e responsivo, construído com HTML5 semântico e CSS3 moderno. Apresenta projetos, habilidades e informações de contato com um design limpo e animações suaves para uma excelente experiência do usuário.",
+    "linguagem": "HTML/JavaScript",
+    "estrela": 0,
+    "link": "https://github.com/VagneLelo/devfolio"
+  },
+  {
     "id": 5,
-    "nome": "E-commerce-API",
-    "descricao": "API completa para e-commerce com carrinho de compras, pagamentos e gestão de pedidos.",
-    "linguagem": "Node.js",
-    "estrela": 15,
-    "link": "https://github.com/VagneLelo/"
-  },
-  {
-    "id": 6,
-    "nome": "Task-Manager-App",
-    "descricao": "Aplicativo de gerenciamento de tarefas com drag-and-drop e categorias personalizáveis.",
-    "linguagem": "React",
-    "estrela": 12,
-    "link": "https://github.com/VagneLelo/"
-  },
-  {
-    "id": 7,
-    "nome": "Weather-Dashboard",
-    "descricao": "Dashboard de previsão do tempo consumindo API externa com gráficos interativos.",
+    "nome": "otaku-anime-object-generator",
+    "descricao": "Ferramenta divertida e útil para gerar objetos JSON aleatórios relacionados a animes. Perfeito para popular bancos de dados de teste, criar mocks para front-end ou simplesmente para uso em aplicações temáticas de anime.",
     "linguagem": "JavaScript",
-    "estrela": 7,
-    "link": "https://github.com/VagneLelo/"
-  },
-  {
-    "id": 8,
-    "nome": "Chat-Realtime",
-    "descricao": "Aplicação de chat em tempo real utilizando Socket.io e React.",
-    "linguagem": "Socket.io",
-    "estrela": 20,
-    "link": "https://github.com/VagneLelo/"
-  },
-  {
-    "id": 9,
-    "nome": "Blog-CMS",
-    "descricao": "Sistema de gerenciamento de conteúdo para blogs com editor markdown integrado.",
-    "linguagem": "Next.js",
-    "estrela": 18,
-    "link": "https://github.com/VagneLelo/blog-cms"
-  },
-  {
-    "id": 10,
-    "nome": "Finance-Tracker",
-    "descricao": "App para controle financeiro pessoal com visualização de gastos em gráficos.",
-    "linguagem": "Vue.js",
-    "estrela": 9,
-    "link": "https://github.com/VagneLelo/"
-  },
-  {
-    "id": 11,
-    "nome": "Social-Media-Bot",
-    "descricao": "Bot para automação de postagens e interações em redes sociais.",
-    "linguagem": "Python",
-    "estrela": 14,
-    "link": "https://github.com/VagneLelo/"
-  },
-  {
-    "id": 12,
-    "nome": "Landing-Page-SaaS",
-    "descricao": "Landing page de alta conversão para produtos SaaS com animações CSS.",
-    "linguagem": "HTML/CSS",
-    "estrela": 6,
-    "link": "https://github.com/VagneLelo/"
+    "estrela": 0,
+    "link": "https://github.com/VagneLelo/otaku-anime-object-generator"
   }
 ]
